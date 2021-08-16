@@ -5,3 +5,5 @@ Creates a Docker Container that can be used for Data Science on MacBook Pro M1
 * tsfresh
 * Tensorflow
 * Catboost
+* numba / llvmlite
+* witwidget
